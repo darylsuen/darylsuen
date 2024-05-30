@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darylsuen
-- 👀 I’m interested in learning the basics of programming through Python.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on beginner code.
+- 👀 I’m interested in data analytics and machine learning
+- 🌱 I have a BSc in Biology and an advanced diploma in Geospatial Data Analytics
+- 💞️ I'm looking to collaborate on machine learning projects
 - 📫 How to reach me: through Github.
 
 <!---
